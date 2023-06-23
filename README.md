@@ -1,5 +1,5 @@
 # CubeRacerHacks
-This is simple hacks for a game called cube racer, allows you to change your physics properties in game.
+Simple hacks for a game called cube racer, allows you to change your physics properties in game.
 Working for the June 29th 2023 update
 ![image](https://github.com/JoshuaSimpson1/CubeRacerHacks/assets/114563088/8625ba55-6edf-4e4e-aee7-52b948cf65df)
 Commands Created (You can also use /help to show them)\
