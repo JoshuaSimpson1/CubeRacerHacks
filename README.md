@@ -17,4 +17,4 @@ Move the Assembly-CSharp.dll file into steamapps/common/Cube Racer 2/CubeRacer2_
 Use Respectfully, don't ruin the fun for other players, or cheat the leaderboard...
 If you are rightfully interested in looking into the source code you can use ILSpy/DnSpy/etc.. to look inside as to whats going on.\
 Classes Changed: PlayerMovementFree, ChatManager, ChatCommands, Obstacle\
-Classes Created: hack\
+Classes Created: hack
